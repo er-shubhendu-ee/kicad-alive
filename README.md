@@ -7,3 +7,4 @@
 
 ### Docs:
 -   Ngspice documentation >> https://ngspice.sourceforge.io/docs.html
+-   Renode >> https://renode.io/
